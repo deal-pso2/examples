@@ -4,4 +4,5 @@ This repository collects various example projects.
 
 ## Lean4 Samples
 
-A minimal Lean4 project is provided in the `lean` directory. To build it, run `lake build` from within that directory (after installing the Lean toolchain).
+A minimal Lean4 project is provided in the `lean` directory.
+To build it, first install the Lean toolchain with `elan` and run `lake build` from inside that directory.
