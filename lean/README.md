@@ -17,5 +17,5 @@ lake build
 Run the executable:
 
 ```
-./build/bin/hello
+./.lake/build/bin/hello
 ```
