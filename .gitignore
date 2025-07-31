@@ -1,0 +1,5 @@
+# Ignore build outputs from lake
+/lake-manifest.json
+/.lake/
+/build/
+/lake-packages/
